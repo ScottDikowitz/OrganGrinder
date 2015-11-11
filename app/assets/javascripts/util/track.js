@@ -47,7 +47,5 @@
       }
     };
     intervalId = setInterval(callback.bind(this), 10);
-
-
   };
 })();
